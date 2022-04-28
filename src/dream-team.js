@@ -28,7 +28,6 @@ const { NotImplementedError } = require('../extensions/index.js');
     }
   };
   arr = arr.sort();
-  console.log(arr)
   for(let i = 0; i < arr.length; i++) {
     string += arr[i];
   }
