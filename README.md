@@ -34,7 +34,7 @@ Your task is to write several functions that are the solution to the subtasks. S
 
 ---
 
-### **Count cats!**
+### **Count cats! ✓**
 
 ![Count cats!](https://vg5b2ejdwb-flywheel.netdna-ssl.com/wp-content/uploads/2019/11/cats-in-boxes-03.jpg)  
 Your task is to count the cats hidden in the backyard (presented by two-dimensional `Array`). Cats hide well, but their **ears** (`"^^"`) are clearly visible. Your task is to implement the `countCats(backyard)` function that will count cats. Good luck!
@@ -53,7 +53,7 @@ Write your code in `src/count-cats.js`.
 
 ---
 
-### **Carbon dating**
+### **Carbon dating ✓**
 
 ![Carbon dating](https://earthhow.com/wp-content/uploads/2018/12/Carbon-Dating-678x378.png)  
 To determine the age of archaeological finds, **radioisotope dating** is widely used. One of its types is **radiocarbon dating**.
@@ -88,7 +88,7 @@ Write your code in `src/carbon-dating.js`.
 
 ---
 
-### **Dream team**
+### **Dream team ✓**
 
 ![Dream team](https://i0.wp.com/www.comicsbeat.com/wp-content/uploads/2021/05/power-rangers.jpg?fit=1420,945&ssl=1)  
 Imagine you and your friends decide to create a **dream team**. This team should have a cool secret name that contains encrypted information about it. For example, these may be the **first letters** of the names of its members in **upper case** **sorted alphabetically**.
@@ -108,7 +108,7 @@ Write your code in `src/dream-team.js`.
 
 ---
 
-### **What season?**
+### **What season? ✓**
 
 ![What season](https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/83/d2/T-T-224-four-seasons-posters-a4_ver_2.avif)  
 Your task is to implement the function `getSeason(date)` that accepts `Date` object and returns the time of the year that matches it.
