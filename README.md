@@ -314,7 +314,7 @@ Write your code in `src/common-character-count.js`.
 
 ---
 
-### **(ST) Delete digit**
+### **(ST) Delete digit ✓**
 Your task is to implement function that accepts **integer number** (`n`) and returns maximal **number** you can obtain by deleting exactly one digit of the given number.
 
 For example:
