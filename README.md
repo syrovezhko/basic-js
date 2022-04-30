@@ -303,7 +303,7 @@ Write your code in `src/vigenere-cipher.js`.
 
 ---
 
-### **(ST) Common character count**
+### **(ST) Common character count ✓**
 Your task is to implement function that accepts two **strings** (`s1` and `s2`) and returns **number** of common characters between them.
 
 For example:
