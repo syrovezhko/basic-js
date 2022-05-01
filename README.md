@@ -382,7 +382,7 @@ Write your code in `src/mac-adress.js`.
 
 ---
 
-### **(ST) Matrix elements sum**
+### **(ST) Matrix elements sum ✓**
 Given **matrix**, a rectangular matrix of **integers**, just add up all the values that **don't appear below a "0"**.
 
 For example:
