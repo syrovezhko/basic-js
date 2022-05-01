@@ -436,7 +436,7 @@ Write your code in `src/sort-by-height.js`.
 
 ---
 
-### **(ST) Sum digits**
+### **(ST) Sum digits ✓**
 Your task is to implement function that accepts a **number** (`n`) and returns the **sum of its digits** until we get to a **one digit number**.  
 
 For example:
