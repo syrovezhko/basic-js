@@ -359,7 +359,7 @@ Write your code in `src/file-names.js`.
 
 ---
 
-### **(ST) Get email domain**
+### **(ST) Get email domain ✓**
 Your task is to implement function that accepts email address (`email`) and returns it's **domain**.  
 
 For example:
