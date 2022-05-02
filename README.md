@@ -141,7 +141,7 @@ Write your code in `src/what-season.js`.
 
 ---
 
-### **Tower of Hanoi**
+### **Tower of Hanoi ✓**
 
 ![Tower of hanoi visualisation](https://ioecapsule.com/wp-content/uploads/2019/08/tower_of_hanoi_3_disks.gif)  
 [Tower of Hanoi](https://www.britannica.com/topic/Tower-of-Hanoi) is famous mathematical puzzle of the 18th century.
