@@ -220,7 +220,7 @@ Write your code in `src/simple-chain.js`.
 
 ---
 
-### **Recursive depth calculator**
+### **Recursive depth calculator ✓**
 
 ![Go deeper](https://i.imgur.com/k7lADiM.jpg)  
 Your task is to implement the class `DepthCalculator` with method `calculateDepth` that takes an `array` and returns its depth.
