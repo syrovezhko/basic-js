@@ -325,7 +325,7 @@ Write your code in `src/delete-digit.js`.
 
 ---
 
-### **(ST) DNS stat**
+### **(ST) DNS stat ✓**
 Your task is to implement function that accepts an **array** of domains (`domains`) and returns the **object** with the appearances of the DNS.
 
 For example:
