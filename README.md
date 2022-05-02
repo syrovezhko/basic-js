@@ -424,7 +424,7 @@ Write your code in `src/mine-sweeper.js`.
 
 ---
 
-### **(ST) Sort by height**
+### **(ST) Sort by height ✓**
 Given an array with heights, sort them except if the value is `-1`.
 Your task is to implement function that accepts **array** (`arr`) and returns it **sorted**
 
